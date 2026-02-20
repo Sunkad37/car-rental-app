@@ -1,0 +1,12 @@
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.deps.json
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.pdb
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.AssemblyInfoInputs.cache
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.AssemblyInfo.cs
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.csproj.CoreCompileInputs.cache
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.sourcelink.json
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/refint/CarRental.Domain.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.pdb
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/Debug/net10.0/ref/CarRental.Domain.dll

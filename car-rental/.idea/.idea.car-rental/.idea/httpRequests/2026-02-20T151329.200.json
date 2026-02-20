@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-02-21",
+    "temperatureC": 53,
+    "summary": "Sweltering",
+    "temperatureF": 127
+  },
+  {
+    "date": "2026-02-22",
+    "temperatureC": 2,
+    "summary": "Sweltering",
+    "temperatureF": 35
+  },
+  {
+    "date": "2026-02-23",
+    "temperatureC": 54,
+    "summary": "Warm",
+    "temperatureF": 129
+  },
+  {
+    "date": "2026-02-24",
+    "temperatureC": 12,
+    "summary": "Warm",
+    "temperatureF": 53
+  },
+  {
+    "date": "2026-02-25",
+    "temperatureC": 22,
+    "summary": "Mild",
+    "temperatureF": 71
+  }
+]
