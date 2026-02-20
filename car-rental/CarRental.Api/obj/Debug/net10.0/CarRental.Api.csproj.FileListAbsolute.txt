@@ -52,9 +52,12 @@
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Api.runtimeconfig.json
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Api.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Api.pdb
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/AutoMapper.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Azure.Core.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Azure.Identity.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Humanizer.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/MediatR.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/MediatR.Contracts.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
@@ -88,6 +91,9 @@
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Mono.TextTemplating.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/System.ClientModel.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/System.CodeDom.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/System.Composition.AttributedModel.dll
@@ -188,8 +194,10 @@
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/runtimes/win/lib/net9.0/System.Windows.Extensions.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Application.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Domain.dll
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Infrastructure.dll
+/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Application.pdb
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Infrastructure.pdb
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/bin/Debug/net10.0/CarRental.Domain.pdb
 /Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/obj/Debug/net10.0/CarRental.Api.csproj.AssemblyReference.cache
