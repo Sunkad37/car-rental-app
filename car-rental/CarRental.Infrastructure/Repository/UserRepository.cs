@@ -13,4 +13,24 @@ public class UserRepository(AppDbContext context) : IUserRepository
             .FirstOrDefaultAsync(x => x.Id == userId);
         return user!;
     }
+
+    public Task<int> CreateUser(User user)
+    {
+        try
+        {
+            var userCreated = context.Users.Add(user);
+            context.SaveChanges();
+            return Task.FromResult(userCreated.Entity.Id);
+        }
+        catch (Exception ex)
+        {
+            return Task.FromResult<int>(-1);
+        }
+    }
+
+    public Task<bool> CheckIfUserExists(string email)
+    {
+        var userExists = context.Users.Any(x => x.Email == email);
+        return Task.FromResult(userExists);
+    }
 }

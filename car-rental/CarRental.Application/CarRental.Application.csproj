@@ -12,10 +12,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Commands\User\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\CarRental.Infrastructure\CarRental.Infrastructure.csproj" />
     </ItemGroup>
 

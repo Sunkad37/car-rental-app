@@ -8,4 +8,6 @@ namespace CarRental.Infrastructure.Repository;
 public interface IUserRepository
 {
     Task<User> GetUserById(int userId);
+    Task<int> CreateUser(User user);
+    Task<bool> CheckIfUserExists(string email);
 }

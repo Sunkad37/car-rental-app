@@ -13,7 +13,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b8123f-40c8-4492-b912-c4f159ab4525" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CarRental.Application/Commands/User/CreateUserCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarRental.Application/Commands/User/CreateUserCommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarRental.Application/Common/Interfaces/IPasswordService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarRental.Application/Common/Services/PasswordService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.car-rental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.car-rental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Api/ApiResponse/ApiResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/ApiResponse/ApiResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Api/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/Controllers/UserController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Application.dll" afterDir="false" />
@@ -32,7 +38,11 @@
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/refint/CarRental.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/refint/CarRental.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/CarRental.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/CarRental.Application.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/Dto/Users/UserDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/Dto/Users/UserDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/Dto/Users/UserProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/Dto/Users/UserProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/Extensions/ServiceCollectionExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/Extensions/ServiceCollectionExtension.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/Queries/User/GetUserByIdQueryCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/Queries/User/GetUserByIdQueryCommand.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Domain.dll" afterDir="false" />
@@ -42,12 +52,12 @@
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/ref/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/ref/CarRental.Application.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/refint/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/refint/CarRental.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Domain/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/Entities/User.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.AssemblyInfo.cs" afterDir="false" />
@@ -57,8 +67,8 @@
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/ref/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/ref/CarRental.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/refint/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/refint/CarRental.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/Migrations/AppDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Migrations/AppDbContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/Persistence/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Persistence/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/Repository/IUsers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Repository/IUserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/Repository/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Repository/UserRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Infrastructure.dll" afterDir="false" />
@@ -99,6 +109,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/82596738ee51b31456edad89786c6c6d05c13e1e53629fe4a308644b32d69/ControllerActionInvoker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f12eb52a5e2d805c1afb382de5fdbc85b1e0ca40bbec2f2174b37e663057fe51/ControllerFactoryProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarRental.Application/Commands/User/CreateUserCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarRental.Application/Commands/User/CreateUserCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarRental.Application/Common/Interfaces/IPasswordService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarRental.Application/Common/Services/PasswordService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CarRental.Application/Dto/Users/UserProfile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CarRental.Application/Extensions/ServiceCollectionExtension.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -223,7 +237,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771579801636</updated>
       <workItem from="1771579803052" duration="10722000" />
-      <workItem from="1771604509986" duration="6842000" />
+      <workItem from="1771604509986" duration="11562000" />
     </task>
     <servers />
   </component>
@@ -249,6 +263,32 @@
           <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="3" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CarRental.Api/Controllers/UserController.cs</url>
+          <line>45</line>
+          <properties documentPath="$PROJECT_DIR$/CarRental.Api/Controllers/UserController.cs" containingFunctionPresentation="Method 'CreateUser'">
+            <startOffsets>
+              <option value="1402" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1403" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CarRental.Application/Queries/User/GetUserByIdQueryCommand.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/CarRental.Application/Queries/User/GetUserByIdQueryCommand.cs" containingFunctionPresentation="Method 'Handle'">
+            <startOffsets>
+              <option value="688" />
+            </startOffsets>
+            <endOffsets>
+              <option value="735" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
