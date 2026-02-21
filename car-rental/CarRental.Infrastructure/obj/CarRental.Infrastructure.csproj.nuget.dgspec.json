@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj": {}
+    "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj": {
+    "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj",
+        "projectUniqueName": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj",
         "projectName": "CarRental.Domain",
-        "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj",
+        "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj",
         "packagesPath": "/Users/sharansunkad/.nuget/packages/",
-        "outputPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/obj/",
+        "outputPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sharansunkad/.nuget/NuGet/NuGet.Config"
@@ -338,14 +338,14 @@
         }
       }
     },
-    "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj": {
+    "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj",
+        "projectUniqueName": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj",
         "projectName": "CarRental.Infrastructure",
-        "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj",
+        "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj",
         "packagesPath": "/Users/sharansunkad/.nuget/packages/",
-        "outputPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Infrastructure/obj/",
+        "outputPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sharansunkad/.nuget/NuGet/NuGet.Config"
@@ -361,8 +361,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj": {
-                "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj"
+              "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj": {
+                "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj"
               }
             }
           }

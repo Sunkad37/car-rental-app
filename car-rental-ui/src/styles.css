@@ -1,1 +1,38 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden; /* Prevent full page scroll */
+}
+
+app-root {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+/* Header fixed height */
+app-header {
+  height: 70px;
+  flex-shrink: 0;
+}
+
+/* Footer fixed height */
+app-footer {
+  height: 50px;
+  flex-shrink: 0;
+}
+
+/* Middle container */
+.layout-container {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+}
+
+/* Only this scrolls */
+.content-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+  background-color: #f4f6f9;
+}

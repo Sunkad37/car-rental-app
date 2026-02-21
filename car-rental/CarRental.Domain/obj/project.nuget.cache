@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FcBC1/Wl2eQ=",
+  "dgSpecHash": "kKwGktreRIY=",
   "success": true,
-  "projectFilePath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj",
+  "projectFilePath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Domain/CarRental.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

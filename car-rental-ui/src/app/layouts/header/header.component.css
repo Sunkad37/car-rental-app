@@ -1,0 +1,53 @@
+.app-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  color: white;
+  display: flex;
+  align-items: center;
+  z-index: 1000;
+}
+
+.header-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 30px;   /* IMPORTANT */
+  box-sizing: border-box; /* IMPORTANT */
+}
+
+.spacer {
+  flex: 1;
+}
+
+.brand-link {
+  font-size: 22px;
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+}
+
+.brand-link:hover {
+  opacity: 0.9;
+}
+
+.user-section {
+  display: flex;
+  align-items: center;
+}
+
+.profile-img {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid white;
+}
+
+.user-name {
+  margin-left: 10px;
+  font-weight: 500;
+}

@@ -1,0 +1,30 @@
+<header class="app-header">
+  <div class="header-wrapper">
+
+    <!-- Left: App Name -->
+    <div class="app-brand">
+      <a routerLink="/" class="brand-link">
+        Car Rental App
+      </a>
+    </div>
+
+    <!-- Spacer -->
+    <div class="spacer"></div>
+
+    <!-- Right: User Info -->
+    <div class="user-section" *ngIf="showLoginButton">
+      <img [src]="user.profileImage || 'assets/default-user.png'" class="profile-img" alt="User" />
+
+      <span class="user-name">{{ user.name }}</span>
+
+      <button class="btn btn-sm btn-outline-light ms-3" (click)="logout()">
+        Logout
+      </button>
+    </div>
+    <div class="user-section" *ngIf="!showLoginButton">
+      <button class="btn btn-sm btn-outline-light ms-3" (click)="logIn()">
+        LogIn
+      </button>
+    </div>
+  </div>
+</header>

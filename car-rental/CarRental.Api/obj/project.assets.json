@@ -4370,11 +4370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/CarRental.Api.csproj",
+      "projectUniqueName": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Api/CarRental.Api.csproj",
       "projectName": "CarRental.Api",
-      "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/CarRental.Api.csproj",
+      "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Api/CarRental.Api.csproj",
       "packagesPath": "/Users/sharansunkad/.nuget/packages/",
-      "outputPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/obj/",
+      "outputPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sharansunkad/.nuget/NuGet/NuGet.Config"
@@ -4390,11 +4390,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Application/CarRental.Application.csproj": {
-              "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Application/CarRental.Application.csproj"
+            "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Application/CarRental.Application.csproj": {
+              "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Application/CarRental.Application.csproj"
             },
-            "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj": {
-              "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj"
+            "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj": {
+              "projectPath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Infrastructure/CarRental.Infrastructure.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S7wMrbW+kdk=",
+  "dgSpecHash": "xlBGKaxB/gY=",
   "success": true,
-  "projectFilePath": "/Users/sharansunkad/Projects/car-rental-app/car-rental/CarRental.Api/CarRental.Api.csproj",
+  "projectFilePath": "/Users/sharansunkad/Projects/car-rental-app/car-rental-ui/car-rental-app/car-rental/CarRental.Api/CarRental.Api.csproj",
   "expectedPackageFiles": [
     "/Users/sharansunkad/.nuget/packages/automapper/16.0.0/automapper.16.0.0.nupkg.sha512",
     "/Users/sharansunkad/.nuget/packages/azure.core/1.47.1/azure.core.1.47.1.nupkg.sha512",
