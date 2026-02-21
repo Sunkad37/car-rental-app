@@ -13,44 +13,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b8123f-40c8-4492-b912-c4f159ab4525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CarRental.Api/ApiResponse/ApiResponse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.Api/Controllers/UserController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.Application/Dto/Users/UserDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.Application/Dto/Users/UserProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.Application/Extensions/ServiceCollectionExtension.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.Application/Queries/User/GetUserByIdQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.Application/Queries/User/GetUserByIdQueryCommand.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Repository/IUsers.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Repository/UserRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.car-rental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.car-rental/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/CarRental.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/CarRental.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Application.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Infrastructure.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/CarRental.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.OpenApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/Microsoft.OpenApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/bin/Debug/net10.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/CarRental.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/CarRental.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/CarRental.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/CarRental.Api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/CarRental.Api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/CarRental.Api.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/CarRental.Api.sourcelink.json" afterDir="false" />
@@ -58,34 +32,22 @@
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/refint/CarRental.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/refint/CarRental.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/CarRental.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/CarRental.Application.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/Dto/Users/UserDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/Dto/Users/UserDto.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/CarRental.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/CarRental.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/CarRental.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/CarRental.Application.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/CarRental.Application.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/CarRental.Application.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/bin/Debug/net10.0/CarRental.Infrastructure.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/CarRental.Application.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/ref/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/ref/CarRental.Application.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/refint/CarRental.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/Debug/net10.0/refint/CarRental.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Domain/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/Entities/User.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/bin/Debug/net10.0/CarRental.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.AssemblyInfo.cs" afterDir="false" />
@@ -95,9 +57,8 @@
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/CarRental.Domain.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/ref/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/ref/CarRental.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/refint/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/Debug/net10.0/refint/CarRental.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/Extensions/ServiceCollectionExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Extensions/ServiceCollectionExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/Migrations/AppDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Migrations/AppDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/Persistence/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/Persistence/AppDbContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Domain.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/bin/Debug/net10.0/CarRental.Infrastructure.dll" afterDir="false" />
@@ -111,8 +72,6 @@
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/obj/Debug/net10.0/CarRental.Infrastructure.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/obj/Debug/net10.0/CarRental.Infrastructure.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/obj/Debug/net10.0/ref/CarRental.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/obj/Debug/net10.0/ref/CarRental.Infrastructure.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/obj/Debug/net10.0/refint/CarRental.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/obj/Debug/net10.0/refint/CarRental.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRental.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarRental.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +223,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771579801636</updated>
       <workItem from="1771579803052" duration="10722000" />
-      <workItem from="1771604509986" duration="5707000" />
+      <workItem from="1771604509986" duration="6842000" />
     </task>
     <servers />
   </component>

@@ -15,5 +15,6 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
         modelBuilder.Entity<User>().HasKey(x => x.Id);
         modelBuilder.Entity<User>().HasIndex(x => x.Email).IsUnique();
         modelBuilder.Entity<User>().Property(x => x.Name).IsRequired().HasMaxLength(50);
+        modelBuilder.Entity<User>().Property(x => x.Password).IsRequired().HasMaxLength(50);
     }
 }
